@@ -55,7 +55,7 @@ def add_characters
           
         },
         {
-          :name => ""
+          :name => "Apothecary"
         }
         ]
    }
