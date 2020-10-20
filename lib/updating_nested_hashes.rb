@@ -53,7 +53,10 @@ def add_characters
       :additional_characters => [
         {:name => ""
           
-        },{}
+        },
+        {
+          :name => ""
+        }
         ]
    }
 
